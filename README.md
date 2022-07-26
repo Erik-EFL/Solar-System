@@ -83,4 +83,5 @@
 ### ©️ Aviso de direitos autorais
 
 </br>
+
 Esse projeto foi desenvolvido para propósitos de aprendizagem, todo o código e documentação são de [Erik-EFL](https://github.com/Erik-EFL) autoria e os direitos pertencem exclusivamente a [Erik-EFL](https://github.com/Erik-EFL). É permitido baixar ou clonar o repositório para fins de estudo. Contudo, não é permitido publicar cópias totais ou parciais. Este aviso não cobre bibliotecas e dependências, estas estão sujeitas a suas respectivas licenças.
