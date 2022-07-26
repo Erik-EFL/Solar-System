@@ -1,10 +1,10 @@
 
-# ☀️ Solar Sisten 🌑
+# ☀️ Solar System 🌑
 
 
 ![Desktop preview](./imgs/)
 
-## Estilização do projeto em andamento 
+## Estilização do projeto em andamento
 ## 📓 Sobre
 
 <details>
