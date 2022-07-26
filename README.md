@@ -5,6 +5,7 @@
 ![Desktop preview](./imgs/)
 
 ## Estilização do projeto em andamento
+
 ## 📓 Sobre
 
 <details>
