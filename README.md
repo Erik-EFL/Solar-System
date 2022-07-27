@@ -45,6 +45,8 @@
   * JavaScript
   * React Testing Library
   * Jest
+  * Git
+
 
   <br />
 </details>
