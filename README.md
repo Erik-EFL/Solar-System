@@ -39,12 +39,12 @@
   <br />
 
   * React.js
+    * Components de Classes
   * HTML5
   * CSS3
   * JavaScript
   * React Testing Library
   * Jest
-  * Components de Classes
 
   <br />
 </details>
