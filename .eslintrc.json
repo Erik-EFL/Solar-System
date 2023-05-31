@@ -3,8 +3,13 @@
         "browser": true,
         "es2020": true
     },
-    "extends": "trybe-frontend",
-    "parser": "babel-eslint",
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "plugin:react-hooks/recommended",
+        "airbnb"
+    ],
+    "parser": "@babel/eslint-parser",
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
@@ -12,6 +17,9 @@
         "sourceType": "module"
     },
     "plugins": [
-        "react"
+        "react",
+        "prettier",
+        "react-hooks",
+        "import-helpers"
     ]
 }
