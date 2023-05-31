@@ -2,7 +2,7 @@
 # ☀️ Solar System 🌑
 
 
-![Desktop preview](./imgs/)
+![Desktop preview](./SolarSystem.png)
 
 ## Estilização do projeto em andamento
 
