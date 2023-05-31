@@ -1,0 +1,29 @@
+.missionCard {
+  border: 1px solid white;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  width: 180px;
+}
+
+.missionCard p {
+  color: white;
+  padding: 0 12px;
+}
+
+.missionCard p:nth-child( 1 ) {
+  border-bottom: 1px solid white;
+  color: white;
+  padding-bottom: 8px;
+}
+
+.missionCard p:nth-child( 2 ) {
+  color: white;
+  margin-top: 12px;
+}
+
+.missionCard p:nth-last-child( 1 ) {
+  color: white;
+  margin-bottom: 12px;
+}
